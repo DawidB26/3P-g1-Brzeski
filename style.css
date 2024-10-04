@@ -1,7 +1,9 @@
-body{
+p{
+    color: blueviolet;
     background-color: aliceblue;
 }
 
 h1{
+    color: darkviolet;
     font-family: Georgia;
 }
